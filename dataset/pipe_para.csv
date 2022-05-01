@@ -1,0 +1,9 @@
+﻿0,1
+population,2.7
+sewage,0.08
+slope,0.005
+depth_min,0.5
+depth_max,4
+trench_wide,0.5
+sewer_ls,30
+facility_ls,30
